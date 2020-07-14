@@ -8,6 +8,11 @@ New economy companies became global leaders without any of those BI/DWH technolo
 Defining and teaching an open source self-service data science framework perfectly fits the needs of such companies with their architectes, developers and data scientists who are in the process of doing the jump.
 
 # Target audience
+The primary audience for this book are data scientists who already have basic to intermediate knowledge of the tooling but want to learn their practical applications and also learn how they are integrated as components in the bigger picture of self-service data science. 
+
+As a reference architecture for self-service data science is provided, this book is also useful for architects and developers who want to build a self-service data science platform. The openness of the reference architecture makes it easy to swap individual components with other open source or commercial components.
+
+# Summary
 This book is a source of knowledge for data scientists and AI engineers on using the open source self-service data science platform defined in the architecture section of this book. This is not a book to be read and forgotten. This is a book which sits on your desk to help you in your day to day work with:
 
 * Data Ingestion (Apache Spark)

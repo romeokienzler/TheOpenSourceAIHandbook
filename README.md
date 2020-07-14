@@ -1,7 +1,7 @@
 # The Open Source AI Handbook
 
-* Preface
-  * Who This Book Is For
+* [Preface](preface)
+  * [Who This Book Is For](preface/who_this_book_is_for.md)
   * Conventions Used in This Book
   * Using Code Examples
   * IBM Online Learning

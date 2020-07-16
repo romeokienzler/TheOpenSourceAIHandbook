@@ -12,15 +12,16 @@
 Description: This chapter introduces the open source data science platform and their components
   * Motivation
   * Components
-    * Virtualization: Kubernetes and OpenShift
+    * Virtualization: Kubernetes and OpenShift, AKS(?)
     * Data Marts: PostgreSQL
     * Storage Layer/Data Lake: Ceph, S3, Cloud Object Store
     * Data Integration: Apache Spark
-    * Dashboarding: Apache Superset
+    * Dashboarding: Apache Superset, R Shiny
     * IDE: Jupyther Hub, Elyra-AI
     * Model Development: TensorFlow, scikit-learn
     * Model Assessment: TensorBoard, AI toolkits
     * Model Deployment/ CI/CD: Kubeflow, KFServing/KNative, Sledon
+    * Experiment Tracking: MLFlow
 
 
 * Using the Storage Layer  

@@ -28,8 +28,9 @@ Description: This chapter introduces the open source data science platform and t
 
 
 * Using the Storage Layer  
-Description: This chapter explains how a modern data lake storage layer looks like. It introduces low level storage (Ceph for onprem, S3 of cloud), data mart for highly interactive queries (PostgreSQL) and data virtualization (Apache Iceberg/Teiid) 
-  * Tooling decision matrix
+Description: This chapter explains how a modern data lake storage layer looks like. It introduces low level storage (Ceph for onprem, S3 of cloud), data mart for highly interactive queries (PostgreSQL) and data virtualization (Apache Iceberg/Teiid)
+  * [Motivation](storage_layer/motivation.md)
+  * [Tooling decision matrix](storage_layer/tooling_decision_matrix.md)
   * Apache Iceberg
   * PostgreSQL
   * Ceph

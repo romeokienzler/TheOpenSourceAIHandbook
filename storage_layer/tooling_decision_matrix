@@ -1,0 +1,15 @@
+# Tooling decision matrix
+
+|Tool Name|S3 read access|Dynamic (inferred) schema|JDBC interface|ODBC interace|
+|---|---|---|---|---|
+|Apache Drill|   |   |   |   |
+|Apache Iceberg|   |   |   |   |
+|Apache Presto|   |   |   |   |
+|Delta Lake|   |   |   |   |
+|Apache Hive|   |   |   |   |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

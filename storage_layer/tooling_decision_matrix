@@ -8,8 +8,36 @@
 |Delta Lake|   |   |   |   |
 |Apache Hive|   |   |   |   |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+---
+draft: true
+title: Digitalization and Society - Episode 1
+subtitle: Understanding DeepLearning concepts for Artificial Intelligence
+authors:
+  - name: Romeo Kienzler
+    email: romeo.kienzler@ch.ibm.com
+completed_date: '2020-07-12'
+last_updated: '2020-07-12'
+time_to_read: 21m
+excerpt: Understanding DeepLearning concepts for Artificial Intelligence
+meta_keywords: >-
+  deeplearning, artificial intelligence, digitalization, society, data privacy,
+  information security, machine learning
+primary_tag: artificial-intelligence
+components:
+  - aif360
+  - art
+  - hyperledger
+  - hyperledger-fabric
+services:
+  - watson-studio
+cities:
+  - berlin-de
+collections:
+  - codait
+episode_date: '2020-07-12'
+episode_duration: '00:21:00'
+episode_source: 'https://media.transistor.fm/df2023a4.mp3'
+podcast: ibm_digitalization_society
+podcast_type: episode
+
+---

@@ -3,6 +3,9 @@ If you are interested in becoming a co-author (any chunk of interesting content 
 
 # The Open Source AI Handbook (creative commons book which you can buy a paper copy and also moving into open governance soon)
 
+![alt text](https://github.com/romeokienzler/TheOpenSourceAIHandbook/raw/master/cover.png)
+
+
 * [Preface](preface)
   * [Who This Book Is For](preface/who_this_book_is_for.md)
   * Conventions Used in This Book

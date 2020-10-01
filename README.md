@@ -2,6 +2,7 @@
 If you are interested in becoming a co-author (any chunk of interesting content is fine) please ping us on [matrix](https://matrix.to/#/!KtFLYZQgBLudkzVBnp:matrix.org?via=matrix.org)
 
 # The Open Source AI Handbook (creative commons book which you can buy a paper copy and also moving into open governance soon)
+* [The Open Source AI Dojo](dojo/syllabus.md)
 
 ![alt text](https://github.com/romeokienzler/TheOpenSourceAIHandbook/raw/master/cover.png)
 

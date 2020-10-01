@@ -21,10 +21,15 @@ https://www.youtube.com/watch?v=7j4JHjmkay4
 # Methods of managing Big Data [ ~15 min]
 
 ## Cloud Object Store
+https://www.coursera.org/learn/ds/lecture/LD29R/data-storage-solutions
 
 ## RedHat Ceph
+### Ceph Object Store
+https://www.youtube.com/watch?v=Wh4N-cka7Uc
+https://www.youtube.com/watch?v=1TmIlH85Y54
 
 ## HDFS
+https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016/courseware/f7e45d019b4648c0a31cca0f46abd34a/ffdb5d5ddec8463f9afbbf83e3874408/1?
 
 ## Egeria
 TODO Mandy Chessell to create video or reuse existing one

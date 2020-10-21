@@ -1,3 +1,8 @@
+# How to become a  Data Scientist [ ~5 min]
+
+https://www.youtube.com/watch?v=qMEJ_D7ASAQ
+(the comment section of the video has a lot of links to beginner, intermediate and advanced material to become a data scientist)
+
 # Tools for creating and executing Big Data pipelines [ ~5 min]
 
 ## JupyterLab and ElyraAI
